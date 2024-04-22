@@ -6,7 +6,7 @@ Este repositório contém um script Python para aumentar a sensibilidade do mous
 
 #
 
-# Description
+# Description / English
 
 The script uses the pyautogui library to monitor and adjust the mouse's position in real-time. The goal is to amplify mouse movements, making it more agile and responsive to smaller movements. This is especially useful for high-resolution monitors or users who prefer high sensitivity.
 
@@ -40,7 +40,7 @@ Contributions are welcome. You can suggest changes via Pull Requests or open Iss
 This project is licensed under the MIT License. See the LICENSE.md file for more details. 
 
 
-# Descrição
+# Descrição / Portugues
 O script utiliza a biblioteca pyautogui para monitorar e ajustar a posição do mouse em tempo real. A ideia é amplificar os movimentos do mouse, tornando-o mais ágil e responsivo a movimentos menores. Isso é especialmente útil para monitores de alta resolução ou usuários que preferem alta sensibilidade.
 
 # Como Funciona
